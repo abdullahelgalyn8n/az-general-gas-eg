@@ -1,0 +1,6 @@
+{
+  "name": "جنرال غاز مصر | General Gas EG",
+  "description": "الموقع الرسمي لشركة جنرال غاز مصر (General Gas EG) - المتخصصون في تصنيع وتوريد وتركيب جميع أنواع دفايات الغاز الهرمية والمربعة والراوند للمنازل والكافيهات والمطاعم والأماكن المفتوحة بخبرة أكثر من 12 عاماً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
